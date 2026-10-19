@@ -2,7 +2,6 @@ package Exercise2;
 
 /**
  * Name:Furkan Bozkurt
- * Student ID:240444038
  * Date:17.10.2026
  */
 public class DeleteMiddleDemo {
